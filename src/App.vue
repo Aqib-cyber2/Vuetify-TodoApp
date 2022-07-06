@@ -81,7 +81,7 @@
           {
             title: 'About',
             icon: 'mdi-help-box',
-            to: '/about'
+            to: '/about' 
           },
         ],
       }
